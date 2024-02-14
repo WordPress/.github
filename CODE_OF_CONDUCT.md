@@ -1,6 +1,6 @@
 # WordPress Community Code of Conduct
 
-The WordPress community welcomes contributors from around the world to help us [Make WordPress](https://make.wordpress.org/) and [Democratize Publishing](https://wordpress.org/about/). This handbook aims to express our shared expectations of how we, as contributors, work together, who we want to build our products for, and the WordPress interpretation of modern, open source best practices.
+The WordPress community welcomes contributors from around the world to help us [Make WordPress](https://make.wordpress.org/) and [Democratize Publishing](https://wordpress.org/about/). The [Contributor Handbook](https://make.wordpress.org/handbook/) aims to express our shared expectations of how we, as contributors, work together, who we want to build our products for, and the WordPress interpretation of modern, open source best practices.
 
 This includes a [Community Code of Conduct](https://make.wordpress.org/handbook/community-code-of-conduct/) (partially included below) and [Incident Response Team](https://make.wordpress.org/community/handbook/irt/).
 
